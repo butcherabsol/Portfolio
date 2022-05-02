@@ -1,0 +1,217 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Jacek Fleks portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<h1>Jacek Fleks</h1>
+							<p class="major">I consider myself to be creative, hard-working, and inventive individual. Always looking for new opportunities to improve myself and those around. I have expertise in innovative design and deep understanding of the financial aspects of the business, and a love for videomaking</a>.</p>
+							<ul class="actions stacked">
+								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/banner.jpg" alt="" />
+						</div>
+					</section>
+				<!-- Two -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>Ergotype - Semifinals Video</h2>
+							<p>April 29 - 2022 NYCU Entreprenurship Competition semifinals application</p>
+							<ul class="actions stacked">
+								<li><a href="https://youtu.be/8GBHzhhvxj4" class="button">Watch video</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight01.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Ergotype - Semifinals Announcement</h2>
+							<p>April 18 - The following are the preliminary results of the 2022 NYCU Innovation and Entrepreneurship Competition. At this point, the competition is still not concluded. Our Ergotype team is currently qualified for the semi-finals, and we are all excited to present our pitch to the school’s jury. </p>
+							<ul class="actions stacked">
+								<li><a href="https://flaps.ord.nycu.edu.tw/Home/Activity/396" class="button" target="_blank">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight02.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Four -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Ergotype - Company proposal</h2>
+							<p>Our team comprises Mike Glasek Business Lead of our project and student at GMBA, Ivan Kakhaev our Tech Lead, Ph.D. student of Computer Science and, Jacek Fleks, also a GMBA student and a team leader for this project. We joined the competition with our project of a split ergonomic keyboard, a product designed to mainly: increase portability, typing speed, and customizability of typing – a task that is too familiar for us as students.</p>
+							<ul class="actions stacked">
+								<li><a href="https://docs.google.com/presentation/d/1n-Y5LcL0GV_-oBdnGrsxs7tspuXpcDYi/edit?usp=sharing&ouid=100287147892800313179&rtpof=true&sd=true" class="button" target="_blank">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight03.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Five -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Ergotype - Concept video</h2>
+							<p>April 7 - Our primary technological advantage is split connectivity – this is a new technology. Such connectivity toany device is almost seamless, with incredible portability, programable functions and layers. With included connectivity to multiple devices, we offer an entirely wireless experience with connectivity between modules and connected devices and, for ultimate comfort - a case with adjustable height. Our recent development is a keyboard case that, in the final version, will be able to elevate the keyboard for ultimate ergonomics and snap halves together for fast and convenient travel. Elevation allows for more natural arm and wrist angles than traditional flat keyboards.</p>
+							<ul class="actions stacked">
+										<li><a href="https://youtu.be/0RK0T9j6OIc" class="button">Watch video</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight04.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Six -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>OTOP 2022 - The New Perspectives</h2>
+							<p>April 21 - We believe that a picture is worth more than a thousand words. We plan to use these materials for marketing campaigns on social media like Facebook and Instagram to get the attention of the younger generation of Taiwanese.</p>
+							<ul class="actions stacked">
+								<li><a href="https://youtu.be/weSFFtk19w4" class="button" target="_blank">Watch Video</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight05.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Gallery header -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Project Gallery</h2>
+							<p>A showcase of miscellaneous projects and ideas. </p>
+						</div>
+
+						<!-- Gallery -->
+							<div class="gallery style2 medium lightbox onscroll-fade-in">
+								<article>
+										<img src="images/gallery/thumbs/01.jpg" height="250" alt="" />
+									<div class="caption">
+										<h3>Student's blog</h3>
+										<p>Reasons for coming to study in Taiwan – European perspective</p>
+										<ul class="actions fixed">
+										    <li><a href="https://gmba.nycu.edu.tw/en/student-blog/study-in-taiwan-european-perspective/" class="button small" target="_blank">Details</a></li>
+										</ul>
+									</div>
+								</article>
+
+
+								<article>
+			
+										<img src="images/gallery/thumbs/07.jpg" height="250"  alt="" />
+					
+									<div class="caption">
+										<h3>Open House Hsinchu</h3>
+										<p>Marketing Proposal</p>
+										<ul class="actions fixed">
+											<li><a href="https://docs.google.com/presentation/d/1Ycl-VmhOkNScyENdiQmykSPFu8iHyLUuXF1YIq3VKFg/edit?usp=sharing`" class="button small" target="_blank">Details</a></li>
+										</ul>
+									</div>
+								</article>								
+								<article>
+									<a href="https://i0.wp.com/gmba.nycu.edu.tw/wp-content/uploads/2022/01/%E6%8B%9B%E7%94%9F%E5%A0%B1%E5%90%8D1920X1080-%E8%8B%B1%E6%96%87%E7%89%88.jpg?w=1920&ssl=1" target="_blank">
+										<img src="images/gallery/thumbs/06.jpg" height="250" alt="" />
+									</a>
+									<div class="caption">
+										<h3>NYCU GMBA</h3>
+										<p>Promotional Materials</p>
+										<ul class="actions fixed">
+											<li><span class="button small">Details</span></li>
+										</ul>
+									</div>
+								</article>	
+								<article>
+			
+										<img src="images/gallery/thumbs/05.jpg" height="250" alt="" />
+					
+									<div class="caption">
+										<h3>Student's blog</h3>
+										<p>Things to do in Hsinchu city center.</p>
+										<ul class="actions fixed">
+											<li><a href="https://gmba.nycu.edu.tw/en/student-blog/things-to-do-in-hsinchu-city-center/" class="button small" target="_blank">Details</a></li>
+										</ul>
+									</div>
+								</article>									
+								<article>
+			
+										<img src="images/gallery/thumbs/04.jpg" height="250" alt="" />
+					
+									<div class="caption">
+										<h3>Student's blog</h3>
+										<p>Culture festival at NYCU.</p>
+										<ul class="actions fixed">
+											<li><a href="https://gmba.nycu.edu.tw/en/student-blog/culture-festival-at-nycu/" class="button small" target="_blank">Details</a></li>
+										</ul>
+									</div>
+								</article>					
+								<article>
+										<img src="images/gallery/thumbs/02.jpg" height="250" alt="" />
+									<div class="caption">
+										<h3>Student's blog</h3>
+										<p>Cultural events in Hsinchu during fall semester.</p>
+										<ul class="actions fixed">
+											<li><a href="https://gmba.nycu.edu.tw/en/student-blog/2022-cultural-hsinchu/" class="button small" target="_blank">Details</a></li>
+										</ul>
+									</div>
+								</article>
+								
+
+
+
+
+
+							</div>
+
+					</section>
+
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://www.instagram.com/jacekplacki/" target="_blank" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="https://www.linkedin.com/in/jacek-fleks-b33439163/" target="_blank" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a href="mailto: fleks.jacek@gmail.com" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; Jacek Fleks Design</p>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
